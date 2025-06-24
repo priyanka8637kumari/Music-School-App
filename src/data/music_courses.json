@@ -1,65 +1,64 @@
 {
-    "courses":[
-        {
-          "id": 1,
-          "title": "Beginner Guitar Course",
-          "slug": "beginner-guitar-course",
-          "description": "Learn the basics of playing guitar, including chords, strumming, and simple songs.",
-          "level": "Beginner",
-          "instructor": "John Mayer",
-          "duration": "6 weeks",
-          "price": 99.99,
-          "isFeatured": true,
-          "image": "/images/guitar-course.jpg"
-        },
-        {
-          "id": 2,
-          "title": "Piano for Beginners",
-          "slug": "piano-for-beginners",
-          "description": "A step-by-step introduction to piano playing, music theory, and reading sheet music.",
-          "level": "Beginner",
-          "instructor": "Alicia Keys",
-          "duration": "8 weeks",
-          "price": 129.99,
-          "isFeatured": true,
-          "image": "/images/piano-course.jpg"
-        },
-        {
-          "id": 3,
-          "title": "Advanced Vocal Training",
-          "slug": "advanced-vocal-training",
-          "description": "Improve your vocal range, technique, and performance skills.",
-          "level": "Advanced",
-          "instructor": "Freddie Mercury",
-          "duration": "10 weeks",
-          "price": 149.99,
-          "isFeatured": true,
-          "image": "/images/vocal-course.jpg"
-        },
-        {
-          "id": 4,
-          "title": "Music Production with Ableton Live",
-          "slug": "music-production-ableton-live",
-          "description": "Learn how to produce professional-quality tracks using Ableton Live.",
-          "level": "Intermediate",
-          "instructor": "Deadmau5",
-          "duration": "12 weeks",
-          "price": 199.99,
-          "isFeatured": true,
-          "image": "/images/ableton-course.jpg"
-        },
-        {
-          "id": 5,
-          "title": "Jazz Improvisation",
-          "slug": "jazz-improvisation",
-          "description": "Explore the theory and practice of jazz improvisation for various instruments.",
-          "level": "Intermediate",
-          "instructor": "Herbie Hancock",
-          "duration": "8 weeks",
-          "price": 139.99,
-          "isFeatured": true,
-          "image": "/images/jazz-course.jpg"
-        }
-      ]
-      
+  "courses": [
+    {
+      "id": 1,
+      "title": "Beginner Guitar Course",
+      "slug": "beginner-guitar-course",
+      "description": "Learn the basics of playing guitar, including chords, strumming, and simple songs.",
+      "level": "Beginner",
+      "instructor": "John Mayer",
+      "duration": "6 weeks",
+      "price": 99.99,
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "A step-by-step introduction to piano playing, music theory, and reading sheet music.",
+      "level": "Beginner",
+      "instructor": "Alicia Keys",
+      "duration": "8 weeks",
+      "price": 129.99,
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1514846326715-7ebb3d1ca3d8?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Vocal Training",
+      "slug": "advanced-vocal-training",
+      "description": "Improve your vocal range, technique, and performance skills.",
+      "level": "Advanced",
+      "instructor": "Freddie Mercury",
+      "duration": "10 weeks",
+      "price": 149.99,
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Music Production with Ableton Live",
+      "slug": "music-production-ableton-live",
+      "description": "Learn how to produce professional-quality tracks using Ableton Live.",
+      "level": "Intermediate",
+      "instructor": "Deadmau5",
+      "duration": "12 weeks",
+      "price": 199.99,
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 5,
+      "title": "Jazz Improvisation",
+      "slug": "jazz-improvisation",
+      "description": "Explore the theory and practice of jazz improvisation for various instruments.",
+      "level": "Intermediate",
+      "instructor": "Herbie Hancock",
+      "duration": "8 weeks",
+      "price": 139.99,
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1510218837768-06e5a209de27?auto=format&fit=crop&w=800&q=80"
+    }
+  ]
 }
